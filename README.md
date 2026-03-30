@@ -23,18 +23,16 @@ This project allows users to add schools and retrieve a list of schools sorted b
 
 ---
 
-## 📂 Project Structure
-NodeJs-Assignment/
-│── config/
-│ └── db.js
-│── controllers/
-│ └── schoolController.js
-│── routes/
-│ └── schoolRoutes.js
-│── app.js
-│── package.json
-│── .env
-│── README.md
+├── config/
+│   └── db.js                 
+├── controllers/
+│   └── schoolController.js   
+├── routes/
+│   └── schoolRoutes.js      
+├── .env                      
+├── .gitignore                
+├── app.js                    
+└── package.json              
 
 
 ---
